@@ -736,7 +736,7 @@ Confusion Matrix
 
 ## Authors
 
-* **[Abhik Sarkar](https://github.com/abhiksark)**
+* **[Adaramola Omolewa](www.linkedin.com/in/omolewa-adaramola)**
 * [Fastai](https://www.fast.ai/)
 
 
